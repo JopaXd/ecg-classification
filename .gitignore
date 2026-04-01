@@ -218,3 +218,4 @@ __marimo__/
 dataset/
 cropped.jpg
 best_model.pth
+best_model_resnet.pth

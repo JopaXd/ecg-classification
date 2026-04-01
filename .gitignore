@@ -223,6 +223,8 @@ best_model_alexnet.pth
 best_model_densenet.pth
 best_model_efficientnet.pth
 best_model_convnext.pth
+best_model_test.pth
+best_model_test_old.pth
 training copy.ipynb
 confusion_matrices.png
 test_accuracy.png

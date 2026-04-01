@@ -8,4 +8,4 @@ training.ipynb covers training a model from scratch, and then fine tuning some o
 - DenseNet121
 - EfficientNet-B0
 - ConvNeXt-Tiny
-- ViT-B/16
+- AlexNet

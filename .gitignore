@@ -224,3 +224,6 @@ best_model_densenet.pth
 best_model_efficientnet.pth
 best_model_convnext.pth
 training copy.ipynb
+confusion_matrices.png
+test_accuracy.png
+losses.png

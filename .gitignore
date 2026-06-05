@@ -229,3 +229,6 @@ training copy.ipynb
 confusion_matrices.png
 test_accuracy.png
 losses.png
+custom_convnet_graph.png
+convnet.onnx
+convnet.onnx.data
